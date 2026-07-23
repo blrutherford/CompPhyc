@@ -1,0 +1,99 @@
+Bug Report
+==========
+
+
+For each fixed bug , please provide the following information:
+  - Class name
+  - Method name
+  - Line number
+	- Cause of bug
+  - Bug fix (or reason bug is not easily fixed)
+
+
+BUGS FOUND AND FIXED BY UNIT TEST (should be 4-5 more bugs to find):
+
+Bug 0:
+  Class: FriendRecommender
+	Method: makeRecommendations()
+	Line: 96
+	Cause: incorrect comparison
+	Fix: ???
+
+Bug 1:
+  Class: FriendRecommender
+	Method:makeReccomendations
+	Line: 99
+	Cause: was checking if us was already friends with v and then proceeding
+	Fix: make sure u and v are not friends to give the recommendation
+
+Bug 2:
+  Class: User
+	Method: find()
+	Line: 44
+	Cause: u == null return u always returns null
+	Fix: u != null
+
+Bug 3:
+  Class: User
+	Method: Unfriend
+	Line: 72
+	Cause: f is written as a string
+	Fix: f instead of "f"
+
+Bug 4:
+  Class: User
+	Method: isFriend
+	Line: 95
+	Cause: was checking if our own user was in our user map
+	Fix: checked if u was in map
+
+Bug 5:
+  Class: User
+	Method: friend
+	Line: 62
+	Cause: was not put in the right map
+	Fix: u.adj.put( name, this )
+
+Bug 6:
+  Class: User
+	Method: leave
+	Line: 84
+	Cause: user was not removed from the hashmap
+	Fix: removed user from hashmap
+
+Bug 7:
+  Class: User
+	Method: friend
+	Line: 62
+	Cause: adj.put( name, this )
+	Fix: u.adj.put( name, this )
+
+BUGS FOUND AND FIXED USING EXPECTED INPUT (2-3):
+
+Bug 6:
+  Class: FriendRecommender
+	Method: compute
+	Line: 42
+	Cause: we are asserting that the user should be null and forgetting a case where u is null
+	Fix: assert user != null and add u == null clause
+
+Bug 7:
+  Class: FriendRecommender
+	Method: compute
+	Line: 40
+	Cause: need a case for when u ends up being null
+	Fix: add the code to create a new user
+
+Bug 8:
+  Class: FriendRecommender
+	Method: compute
+	Line: 44 and 48
+	Cause: leaves and joins conditions were in the wrong spot
+	Fix: switch the leaves and joins statements
+
+Bug 9:
+  Class: FriendRecommender
+	Method: recommend
+	Line:81
+	Cause: not checking for duplicates in the entire list, only with the one that comes before it
+	Fix: sort the tmp list in order so that duplicates are directly after one another
