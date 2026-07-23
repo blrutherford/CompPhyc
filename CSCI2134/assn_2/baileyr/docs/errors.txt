@@ -1,0 +1,45 @@
+Bug Report
+==========
+
+Error 1:
+  Class: FriendRecommender
+  Method: makeRecommendations()
+  Test Method: testTwoFriends()
+  Message: Wrong recommendation count
+
+Error 2:
+  Class: User
+  Method: find()
+  Test Method: testFind()
+  Message: User not found
+
+Error 3:
+  Class: User
+  Method: friend()
+  Test Method: testFriend()
+  Message: User2 was not added to User1's network
+
+Error 4:
+  Class: User
+  Method: friend()
+  Test Method: testFriend_alreadyFriends()
+  Message: User2 should still be friends with User1
+
+Error 5:
+  Class: User
+  Method: unfriend()
+  Test Method: testUnfriend()
+  Message: Cannot read field "name" because "u" is null
+
+Error 6:
+  Class: User
+  Method: unfriend()
+  Test Method: testUnfriend_notFriends()
+  Message: Cannot read field "name" because "u" is null
+
+*********** ADD AS MANY MORE AS NEEDED *******************
+Error 7:
+  Class: FriendRecommender
+  Method: makeRecommendations()
+  Test Method: testMakeRecommendations_isLarger()
+  Message: Wrong recommendation count
