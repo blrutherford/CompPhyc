@@ -1,0 +1,500 @@
+movie_id,movie_title,release_date,budget,mpaa,genre,production_cost
+1,Avengers: Endgame,"April 23, 2019",,PG-13,Action,400000000
+2,Pirates of the Caribbean: On Stranger Tides,"May 20, 2011",,PG-13,Adventure,379000000
+3,Avengers: Age of Ultron,"April 22, 2015",,PG-13,Action,365000000
+4,Star Wars Ep. VII: The Force Awakens,"December 16, 2015",,PG-13,Adventure,306000000
+5,Avengers: Infinity War,"April 25, 2018",,PG-13,Action,300000000
+6,Pirates of the Caribbean: At World’s End,"May 24, 2007",,PG-13,Adventure,300000000
+7,Justice League,"November 13, 2017",,PG-13,Action,300000000
+8,Spectre,"October 6, 2015",,PG-13,Action,300000000
+9,Mission: Impossible Dead Reckoning Part One,"July 11, 2023",,NA,Action,290000000
+10,Star Wars: The Rise of Skywalker,"December 18, 2019",,PG-13,Adventure,275000000
+11,Solo: A Star Wars Story,"May 23, 2018",,PG-13,Adventure,275000000
+12,John Carter,"March 7, 2012",,PG-13,Adventure,263700000
+13,Batman v Superman: Dawn of Justice,"March 23, 2016",,PG-13,Action,263000000
+14,Star Wars Ep. VIII: The Last Jedi,"December 13, 2017",,PG-13,Adventure,262000000
+15,The Lion King,"July 11, 2019",,PG,Adventure,260000000
+16,Tangled,"November 24, 2010",,PG,Musical,260000000
+17,Spider-Man 3,"May 4, 2007",,PG-13,Adventure,258000000
+18,Captain America: Civil War,"April 22, 2016",,PG-13,Action,250000000
+19,Thor: Love and Thunder,"July 1, 2022",,PG-13,Action,250000000
+20,Harry Potter and the Half-Blood Prince,"July 15, 2009",,PG,Adventure,250000000
+21,The Hobbit: The Desolation of Smaug,"December 12, 2013",,PG-13,Adventure,250000000
+22,The Hobbit: The Battle of the Five Armies,"December 10, 2014",,PG-13,Adventure,250000000
+23,The Fate of the Furious,"April 7, 2017",,PG-13,Action,250000000
+24,No Time to Die,"September 29, 2021",,PG-13,Action,250000000
+25,Avatar,"December 17, 2009",,PG-13,Action,237000000
+26,Superman Returns,"June 28, 2006",,PG-13,Adventure,232000000
+27,The Dark Knight Rises,"July 19, 2012",,PG-13,Action,230000000
+28,Pirates of the Caribbean: Dead Men Tell No Tales,"May 23, 2017",,PG-13,Adventure,230000000
+29,Quantum of Solace,"November 14, 2008",,PG-13,Action,230000000
+30,The Avengers,"April 25, 2012",,PG-13,Action,225000000
+31,Pirates of the Caribbean: Dead Man’s Chest,"July 6, 2006",,PG-13,Adventure,225000000
+32,Man of Steel,"June 14, 2013",,PG-13,Action,225000000
+33,The Chronicles of Narnia: Prince Caspian,"May 16, 2008",,PG,Adventure,225000000
+34,The Lone Ranger,"July 2, 2013",,PG-13,Western,225000000
+35,The Amazing Spider-Man,"June 27, 2012",,PG-13,Adventure,220000000
+36,Battleship,"April 11, 2012",,PG-13,Action,220000000
+37,Transformers: The Last Knight,"June 20, 2017",,PG-13,Action,217000000
+38,Jurassic World,"June 9, 2015",,PG-13,Action,215000000
+39,Men in Black 3,"May 23, 2012",,PG-13,Adventure,215000000
+40,Transformers: Revenge of the Fallen,"June 24, 2009",,PG-13,Action,210000000
+41,Transformers: Age of Extinction,"June 25, 2014",,PG-13,Action,210000000
+42,X-Men: The Last Stand,"May 26, 2006",,PG-13,Action,210000000
+43,Robin Hood,"May 14, 2010",,PG-13,Action,210000000
+44,King Kong,"December 14, 2005",,PG-13,Adventure,207000000
+45,The Golden Compass,"December 7, 2007",,PG-13,Adventure,205000000
+46,Tenet,"August 26, 2020",,PG-13,Action,205000000
+47,Spider-Man: No Way Home,"December 14, 2021",,PG-13,Action,200000000
+48,Black Panther,"February 13, 2018",,PG-13,Action,200000000
+49,Titanic,"December 18, 1997",,PG-13,Drama,200000000
+50,Incredibles 2,"June 15, 2018",,PG,Adventure,200000000
+51,Rogue One: A Star Wars Story,"December 14, 2016",,PG-13,Adventure,200000000
+52,Finding Dory,"June 16, 2016",,PG,Adventure,200000000
+53,Toy Story 4,"June 20, 2019",,G,Adventure,200000000
+54,Toy Story 3,"June 18, 2010",,G,Adventure,200000000
+55,Doctor Strange in the Multiverse of Madness,"May 4, 2022",,PG-13,Action,200000000
+56,Iron Man 3,"April 24, 2013",,PG-13,Action,200000000
+57,Guardians of the Galaxy Vol 2,"April 28, 2017",,PG-13,Action,200000000
+58,Spider-Man 2,"June 30, 2004",,PG-13,Adventure,200000000
+59,The Batman,"March 1, 2022",,PG-13,Action,200000000
+60,Alice in Wonderland,"March 4, 2010",,PG,Adventure,200000000
+61,Skyfall,"October 26, 2012",,PG-13,Action,200000000
+62,The Hobbit: An Unexpected Journey,"December 11, 2012",,PG-13,Adventure,200000000
+63,Monsters University,"June 21, 2013",,G,Adventure,200000000
+64,Oz the Great and Powerful,"March 8, 2013",,PG,Adventure,200000000
+65,X-Men: Days of Future Past,"May 21, 2014",,PG-13,Action,200000000
+66,The Amazing Spider-Man 2,"April 16, 2014",,PG-13,Action,200000000
+67,Cars 2,"June 23, 2011",,G,Adventure,200000000
+68,Black Widow,"July 7, 2021",,PG-13,Action,200000000
+69,Fast & Furious Presents: Hobbs & Shaw,"July 31, 2019",,PG-13,Action,200000000
+70,F9: The Fast Saga,"May 20, 2021",,PG-13,Action,200000000
+71,Tron: Legacy,"December 17, 2010",,PG,Adventure,200000000
+72,2012,"November 12, 2009",,PG-13,Action,200000000
+73,Eternals,"November 3, 2021",,PG-13,Action,200000000
+74,Fantastic Beasts: The Crimes of Grindelwald,"November 14, 2018",,PG-13,Adventure,200000000
+75,Terminator Salvation,"May 21, 2009",,PG-13,Action,200000000
+76,Lightyear,"June 15, 2022",,PG,Adventure,200000000
+77,Jungle Cruise,"July 28, 2021",,PG-13,Adventure,200000000
+78,Green Lantern,"June 17, 2011",,PG-13,Action,200000000
+79,Fantastic Beasts: The Secrets of Dumbledore,"April 6, 2022",,PG-13,Adventure,200000000
+80,Prince of Persia: Sands of Time,"May 28, 2010",,PG-13,Action,200000000
+81,Dark Phoenix,"June 5, 2019",,PG-13,Action,200000000
+82,Onward,"February 28, 2020",,PG,Adventure,200000000
+83,Wonder Woman 1984,"December 16, 2020",,PG-13,Action,200000000
+84,Mulan,"September 4, 2020",,PG-13,Adventure,200000000
+85,The Tomorrow War,"July 2, 2021",,PG-13,Action,200000000
+86,The Gray Man,"July 13, 2022",,PG-13,Thriller/Suspense,200000000
+87,Transformers: Dark of the Moon,"June 29, 2011",,PG-13,Action,195000000
+88,The Mummy,"June 2, 2017",,PG-13,Adventure,195000000
+89,Jack the Giant Slayer,"February 27, 2013",,PG-13,Adventure,195000000
+90,Furious 7,"April 1, 2015",,PG-13,Action,190000000
+91,Star Trek Into Darkness,"May 16, 2013",,PG-13,Adventure,190000000
+92,World War Z,"June 19, 2013",,PG-13,Action,190000000
+93,The Great Gatsby,"May 10, 2013",,PG-13,Drama,190000000
+94,Disney’s A Christmas Carol,"November 6, 2009",,PG,Drama,190000000
+95,Pacific Rim,"July 11, 2013",,PG-13,Action,190000000
+96,The Matrix Resurrections,"December 16, 2021",,R,Action,190000000
+97,The Good Dinosaur,"November 25, 2015",,PG,Adventure,187500000
+98,Iron Man,"May 2, 2008",,PG-13,Adventure,186000000
+99,The Dark Knight,"July 11, 2008",,PG-13,Action,185000000
+100,Indiana Jones and the Kingdom of the Crystal Skull,"May 22, 2008",,PG-13,Adventure,185000000
+101,Brave,"June 21, 2012",,PG,Adventure,185000000
+102,Kong: Skull Island,"February 23, 2017",,PG-13,Adventure,185000000
+103,Star Trek Beyond,"July 21, 2016",,PG-13,Adventure,185000000
+104,Maleficent: Mistress of Evil,"October 17, 2019",,PG,Adventure,185000000
+105,Blade Runner 2049,"September 29, 2017",,R,Thriller/Suspense,185000000
+106,Terminator: Dark Fate,"October 25, 2019",,R,Action,185000000
+107,The Suicide Squad,"July 28, 2021",,R,Action,185000000
+108,Aladdin,"May 22, 2019",,PG,Adventure,182000000
+109,Thor: Ragnarok,"October 25, 2017",,PG-13,Action,180000000
+110,"The Chronicles of Narnia: The Lion, the Witch a…","December 9, 2005",,NA,NA,180000000
+111,Maleficent,"May 28, 2014",,PG,Adventure,180000000
+112,Fantastic Beasts and Where to Find Them,"November 14, 2016",,PG-13,Adventure,180000000
+113,WALL-E,"June 27, 2008",,G,Adventure,180000000
+114,Rush Hour 3,"August 10, 2007",,PG-13,Action,180000000
+115,The Legend of Tarzan,"June 27, 2016",,PG-13,Adventure,180000000
+116,Hugo,"November 23, 2011",,PG,Adventure,180000000
+117,Valerian and the City of a Thousand Planets,"July 20, 2017",,PG-13,Adventure,180000000
+118,Jupiter Ascending,"February 6, 2015",,PG-13,Action,179000000
+119,Mission: Impossible—Fallout,"July 16, 2018",,PG-13,Action,178000000
+120,X-Men: Apocalypse,"May 18, 2016",,PG-13,Action,178000000
+121,The Meg,"August 9, 2018",,PG-13,Action,178000000
+122,Edge of Tomorrow,"May 28, 2014",,PG-13,Action,178000000
+123,Captain Marvel,"March 6, 2019",,PG-13,Action,175000000
+124,The Jungle Book,"April 7, 2016",,PG,Adventure,175000000
+125,Inside Out,"June 12, 2015",,PG,Adventure,175000000
+126,Spider-Man: Homecoming,"July 5, 2017",,PG-13,Action,175000000
+127,Suicide Squad,"August 2, 2016",,PG-13,Action,175000000
+128,Up,"May 28, 2009",,PG,Adventure,175000000
+129,Coco,"October 27, 2017",,PG,Musical,175000000
+130,Ralph Breaks The Internet,"November 21, 2018",,PG,Adventure,175000000
+131,Monsters vs. Aliens,"March 27, 2009",,PG,Adventure,175000000
+132,Cars 3,"June 16, 2017",,G,Adventure,175000000
+133,G.I. Joe: The Rise of Cobra,"August 7, 2009",,PG-13,Action,175000000
+134,Wild Wild West,"June 30, 1999",,PG-13,Adventure,175000000
+135,The Mummy: Tomb of the Dragon Emperor,"August 1, 2008",,PG-13,Adventure,175000000
+136,Evan Almighty,"June 22, 2007",,PG,Comedy,175000000
+137,Waterworld,"July 28, 1995",,PG-13,Action,175000000
+138,Dolittle,"January 8, 2020",,PG,Adventure,175000000
+139,King Arthur: Legend of the Sword,"May 11, 2017",,PG-13,Adventure,175000000
+140,47 Ronin,"December 6, 2013",,PG-13,Action,175000000
+141,Turning Red,"March 10, 2022",,PG,Adventure,175000000
+142,Top Gun: Maverick,"May 20, 2022",,PG-13,Action,170000000
+143,Jurassic World: Fallen Kingdom,"June 6, 2018",,PG-13,Action,170000000
+144,Guardians of the Galaxy,"July 31, 2014",,PG-13,Action,170000000
+145,Iron Man 2,"May 7, 2010",,PG-13,Action,170000000
+146,Captain America: The Winter Soldier,"March 28, 2014",,PG-13,Action,170000000
+147,Dawn of the Planet of the Apes,"July 9, 2014",,PG-13,Adventure,170000000
+148,The Polar Express,"November 10, 2004",,G,Adventure,170000000
+149,Snow White and the Huntsman,"May 30, 2012",,PG-13,Adventure,170000000
+150,Terminator 3: Rise of the Machines,"July 1, 2003",,R,Action,170000000
+151,Van Helsing,"May 5, 2004",,PG-13,Action,170000000
+152,Dumbo,"March 27, 2019",,PG,Adventure,170000000
+153,Godzilla: King of the Monsters,"May 29, 2019",,PG-13,Action,170000000
+154,Tomorrowland,"May 20, 2015",,PG,Adventure,170000000
+155,Alita: Battle Angel,"February 1, 2019",,PG-13,Action,170000000
+156,Alice Through the Looking Glass,"May 20, 2016",,PG,Adventure,170000000
+157,Jurassic World: Dominion,"June 1, 2022",,PG-13,Action,165000000
+158,Shrek Forever After,"May 21, 2010",,PG,Adventure,165000000
+159,Doctor Strange,"October 24, 2016",,PG-13,Action,165000000
+160,Big Hero 6,"October 25, 2014",,PG,Adventure,165000000
+161,How to Train Your Dragon,"March 26, 2010",,PG,Adventure,165000000
+162,Wreck-It Ralph,"November 1, 2012",,PG,Adventure,165000000
+163,Interstellar,"November 5, 2014",,PG-13,Adventure,165000000
+164,Dune,"September 15, 2021",,PG-13,Action,165000000
+165,Independence Day: Resurgence,"June 22, 2016",,PG-13,Action,165000000
+166,Cowboys and Aliens,"July 29, 2011",,PG-13,Action,163000000
+167,Beauty and the Beast,"March 16, 2017",,PG,Musical,160000000
+168,Spider-Man: Far From Home,"June 27, 2019",,PG-13,Action,160000000
+169,Aquaman,"December 6, 2018",,PG-13,Action,160000000
+170,Shrek the Third,"May 17, 2007",,PG,Adventure,160000000
+171,Inception,"July 16, 2010",,PG-13,Thriller/Suspense,160000000
+172,The Hunger Games: Mockingjay - Part 2,"November 18, 2015",,PG-13,Thriller/Suspense,160000000
+173,Fast and Furious 6,"May 17, 2013",,PG-13,Action,160000000
+174,Godzilla,"May 14, 2014",,PG-13,Action,160000000
+175,X-Men: First Class,"June 3, 2011",,PG-13,Action,160000000
+176,The Curious Case of Benjamin Button,"December 25, 2008",,PG-13,Drama,160000000
+177,The Sorcerer's Apprentice,"July 14, 2010",,PG,Adventure,160000000
+178,Poseidon,"May 12, 2006",,PG-13,Adventure,160000000
+179,Warcraft,"May 25, 2016",,PG-13,Action,160000000
+180,The Irishman,"November 1, 2019",,R,Drama,159000000
+181,Deepwater Horizon,"September 29, 2016",,PG-13,Thriller/Suspense,156000000
+182,The Chronicles of Narnia: The Voyage of the Daw…,"December 10, 2010",,NA,NA,155000000
+183,Godzilla vs. Kong,"March 25, 2021",,PG-13,Action,155000000
+184,Terminator: Genisys,"June 24, 2015",,PG-13,Action,155000000
+185,Pacific Rim: Uprising,"March 16, 2018",,PG-13,Action,155000000
+186,Alexander,"November 24, 2004",,R,Action,155000000
+187,War for the Planet of the Apes,"July 14, 2017",,PG-13,Action,152000000
+188,Pearl Harbor,"May 25, 2001",,PG-13,Action,151500000
+189,Transformers,"July 2, 2007",,PG-13,Action,151000000
+190,Frozen II,"November 20, 2019",,PG,Adventure,150000000
+191,Wonder Woman,"May 29, 2017",,PG-13,Action,150000000
+192,Frozen,"November 22, 2013",,PG,Musical,150000000
+193,Zootopia,"February 10, 2016",,PG,Adventure,150000000
+194,Harry Potter and the Order of the Phoenix,"July 11, 2007",,PG-13,Adventure,150000000
+195,Harry Potter and the Goblet of Fire,"November 18, 2005",,PG-13,Adventure,150000000
+196,The Matrix Reloaded,"May 15, 2003",,R,Action,150000000
+197,I am Legend,"December 14, 2007",,PG-13,Horror,150000000
+198,Moana,"January 27, 2016",,PG,Musical,150000000
+199,Hancock,"July 1, 2008",,PG-13,Action,150000000
+200,Shang-Chi and the Legend of the Ten Rings,"September 1, 2021",,PG-13,Action,150000000
+201,Charlie and the Chocolate Factory,"July 15, 2005",,PG,Adventure,150000000
+202,Ratatouille,"June 29, 2007",,G,Adventure,150000000
+203,Thor: The Dark World,"October 30, 2013",,PG-13,Action,150000000
+204,Batman Begins,"June 15, 2005",,PG-13,Action,150000000
+205,Mission: Impossible—Rogue Nation,"July 29, 2015",,PG-13,Action,150000000
+206,Dunkirk,"July 18, 2017",,PG-13,Action,150000000
+207,Thor,"April 29, 2011",,PG-13,Action,150000000
+208,Madagascar: Escape 2 Africa,"November 7, 2008",,PG,Adventure,150000000
+209,X-Men Origins: Wolverine,"May 1, 2009",,PG-13,Action,150000000
+210,Night at the Museum: Battle of the Smithsonian,"May 22, 2009",,PG,Adventure,150000000
+211,Kung Fu Panda 2,"May 26, 2011",,PG,Adventure,150000000
+212,Mad Max: Fury Road,"May 14, 2015",,R,Action,150000000
+213,Pokémon: Detective Pikachu,"May 3, 2019",,PG,Adventure,150000000
+214,The Matrix Revolutions,"November 5, 2003",,R,Action,150000000
+215,Ready Player One,"March 20, 2018",,PG-13,Adventure,150000000
+216,Chicken Little,"November 4, 2005",,G,Adventure,150000000
+217,Mission: Impossible III,"May 5, 2006",,PG-13,Action,150000000
+218,Angels & Demons,"May 15, 2009",,PG-13,Thriller/Suspense,150000000
+219,Troy,"May 13, 2004",,R,Action,150000000
+220,The Last Airbender,"July 1, 2010",,PG,Adventure,150000000
+221,Bee Movie,"November 2, 2007",,PG,Adventure,150000000
+222,G-Force,"July 24, 2009",,PG,Adventure,150000000
+223,Bolt,"November 21, 2008",,PG,Adventure,150000000
+224,Encanto,"November 24, 2021",,PG,Adventure,150000000
+225,Wrath of the Titans,"March 28, 2012",,PG-13,Adventure,150000000
+226,Beowulf,"November 16, 2007",,PG-13,Adventure,150000000
+227,Dark Shadows,"May 9, 2012",,PG-13,Black Comedy,150000000
+228,White House Down,"June 28, 2013",,PG-13,Thriller/Suspense,150000000
+229,Space Jam: A New Legacy,"July 14, 2021",,PG,Comedy,150000000
+230,The Wolfman,"February 12, 2010",,R,Horror,150000000
+231,The Great Wall,"December 15, 2016",,PG-13,Action,150000000
+232,Pan,"September 25, 2015",,PG,Adventure,150000000
+233,Mars Needs Moms,"March 11, 2011",,PG,Adventure,150000000
+234,Moonfall,"February 3, 2022",,PG-13,Action,150000000
+235,Red Notice,"November 4, 2021",,PG-13,Action,150000000
+236,6 Underground,"December 13, 2019",,R,Action,150000000
+237,Flushed Away,"November 3, 2006",,PG,Adventure,149000000
+238,Madagascar 3: Europe's Most Wanted,"June 8, 2012",,PG,Adventure,145000000
+239,Mission: Impossible—Ghost Protocol,"December 14, 2011",,PG-13,Action,145000000
+240,How to Train Your Dragon 2,"June 5, 2014",,PG,Adventure,145000000
+241,Tarzan,"June 16, 1999",,G,Adventure,145000000
+242,Mr. Peabody & Sherman,"February 20, 2014",,PG,Adventure,145000000
+243,Rise of the Guardians,"November 20, 2012",,PG,Adventure,145000000
+244,Sahara,"April 8, 2005",,PG-13,Adventure,145000000
+245,Ghostbusters,"July 13, 2016",,PG-13,Comedy,144000000
+246,Die Another Day,"November 22, 2002",,PG-13,Action,142000000
+247,Pirates of the Caribbean: The Curse of the Blac…,"July 9, 2003",,NA,NA,140000000
+248,Star Trek,"May 8, 2009",,PG-13,Adventure,140000000
+249,Armageddon,"July 1, 1998",,PG-13,Adventure,140000000
+250,Men in Black 2,"July 3, 2002",,PG-13,Action,140000000
+251,Captain America: The First Avenger,"July 22, 2011",,PG-13,Action,140000000
+252,Kung Fu Panda 3,"January 23, 2016",,PG,Adventure,140000000
+253,Lethal Weapon 4,"July 10, 1998",,R,Action,140000000
+254,G.I. Joe: Retaliation,"March 27, 2013",,PG-13,Action,140000000
+255,The Last Samurai,"December 5, 2003",,R,Action,140000000
+256,Fun With Dick And Jane,"December 21, 2005",,PG-13,Comedy,140000000
+257,Exodus: Gods and Kings,"December 5, 2014",,PG-13,Drama,140000000
+258,The BFG,"June 30, 2016",,PG,Adventure,140000000
+259,Gemini Man,"October 3, 2019",,PG-13,Action,140000000
+260,Gods of Egypt,"February 24, 2016",,PG-13,Adventure,140000000
+261,Desert Warrior,NA,,NA,NA,140000000
+262,Spider-Man,"May 3, 2002",,PG-13,Adventure,139000000
+263,Watchmen,"March 6, 2009",,R,Action,138000000
+264,Stealth,"July 29, 2005",,PG-13,Action,138000000
+265,The Incredible Hulk,"June 13, 2008",,PG-13,Adventure,137500000
+266,Hulk,"June 20, 2003",,PG-13,Action,137000000
+267,Final Fantasy: The Spirits Within,"July 11, 2001",,PG-13,Adventure,137000000
+268,"The Twilight Saga: Breaking Dawn, Part 2","November 14, 2012",,PG-13,Drama,136200000
+269,The Croods,"March 15, 2013",,PG,Adventure,135000000
+270,The Revenant,"December 25, 2015",,R,Adventure,135000000
+271,The World is Not Enough,"November 19, 1999",,PG-13,Action,135000000
+272,Rango,"March 4, 2011",,PG,Adventure,135000000
+273,Master and Commander: The Far Side of the World,"November 14, 2003",,PG-13,Adventure,135000000
+274,Turbo,"July 17, 2013",,PG,Adventure,135000000
+275,Teenage Mutant Ninja Turtles: Out of the Shadows,"June 2, 2016",,PG-13,Adventure,135000000
+276,Happy Feet Two,"November 18, 2011",,PG,Adventure,135000000
+277,Miami Vice,"July 28, 2006",,R,Action,135000000
+278,The Nutcracker and the Four Realms,"October 31, 2018",,PG,Adventure,132900000
+279,War of the Worlds,"June 24, 2005",,PG-13,Action,132000000
+280,Penguins of Madagascar,"November 26, 2014",,PG,Adventure,132000000
+281,The Hunger Games: Catching Fire,"November 15, 2013",,PG-13,Adventure,130000000
+282,Harry Potter and the Prisoner of Azkaban,"May 31, 2004",,PG,Adventure,130000000
+283,The Bourne Ultimatum,"August 3, 2007",,PG-13,Thriller/Suspense,130000000
+284,Ant-Man and the Wasp,"July 3, 2018",,PG-13,Action,130000000
+285,Kung Fu Panda,"June 6, 2008",,PG,Adventure,130000000
+286,Ant-Man,"July 14, 2015",,PG-13,Action,130000000
+287,Home,"March 19, 2015",,PG,Adventure,130000000
+288,Mary Poppins Returns,"December 19, 2018",,PG,Musical,130000000
+289,Puss in Boots,"October 28, 2011",,PG,Adventure,130000000
+290,Megamind,"November 5, 2010",,PG,Adventure,130000000
+291,Bad Boys II,"July 18, 2003",,R,Action,130000000
+292,Rio 2,"March 20, 2014",,G,Adventure,130000000
+293,Salt,"July 23, 2010",,PG-13,Thriller/Suspense,130000000
+294,Noah,"March 27, 2014",,PG-13,Drama,130000000
+295,The Adventures of Tintin,"October 28, 2011",,PG,Adventure,130000000
+296,After Earth,"May 31, 2013",,PG-13,Action,130000000
+297,Australia,"November 26, 2008",,PG-13,Drama,130000000
+298,R.I.P.D.,"July 19, 2013",,PG-13,Action,130000000
+299,How to Train Your Dragon: The Hidden World,"January 3, 2019",,PG,Adventure,129000000
+300,"The Twilight Saga: Breaking Dawn, Part 1","November 18, 2011",,PG-13,Drama,127500000
+301,Dinosaur,"May 19, 2000",,PG,Adventure,127500000
+302,Logan,"February 23, 2017",,R,Action,127000000
+303,Night at the Museum: Secret of the Tomb,"December 18, 2014",,PG,Adventure,127000000
+304,Harry Potter and the Deathly Hallows: Part II,"July 13, 2011",,PG-13,Adventure,125000000
+305,The Hunger Games: Mockingjay - Part 1,"November 19, 2014",,PG-13,Thriller/Suspense,125000000
+306,Harry Potter and the Sorcerer’s Stone,"November 15, 2001",,PG,Adventure,125000000
+307,Jumanji: The Next Level,"December 4, 2019",,PG-13,Adventure,125000000
+308,Harry Potter and the Deathly Hallows: Part I,"November 17, 2010",,PG-13,Adventure,125000000
+309,The Da Vinci Code,"May 19, 2006",,PG-13,Thriller/Suspense,125000000
+310,X-Men 2,"April 30, 2003",,PG-13,Action,125000000
+311,Fast Five,"April 21, 2011",,PG-13,Action,125000000
+312,Teenage Mutant Ninja Turtles,"August 8, 2014",,PG-13,Adventure,125000000
+313,Sherlock Holmes: A Game of Shadows,"December 16, 2011",,PG-13,Action,125000000
+314,The Day After Tomorrow,"May 27, 2004",,PG-13,Adventure,125000000
+315,The Boss Baby,"March 17, 2017",,PG,Adventure,125000000
+316,Clash of the Titans,"April 1, 2010",,PG-13,Action,125000000
+317,Trolls,"October 12, 2016",,PG,Adventure,125000000
+318,Godzilla,"May 19, 1998",,PG-13,Action,125000000
+319,Prometheus,"May 30, 2012",,R,Thriller/Suspense,125000000
+320,The Bourne Legacy,"August 10, 2012",,PG-13,Thriller/Suspense,125000000
+321,Batman & Robin,"June 20, 1997",,PG-13,Action,125000000
+322,Skyscraper,"July 5, 2018",,PG,Action,125000000
+323,The Call of the Wild,"January 3, 2020",,PG,Adventure,125000000
+324,Total Recall,"August 3, 2012",,PG-13,Action,125000000
+325,Assassin’s Creed,"December 21, 2016",,PG-13,Action,125000000
+326,Monster Trucks,"December 29, 2016",,PG-13,Adventure,125000000
+327,The 13th Warrior,"August 27, 1999",,R,Action,125000000
+328,How the Grinch Stole Christmas,"November 17, 2000",,PG,Adventure,123000000
+329,Mission: Impossible 2,"May 24, 2000",,PG-13,Action,120000000
+330,The Perfect Storm,"June 30, 2000",,PG-13,Drama,120000000
+331,Jason Bourne,"July 20, 2016",,PG-13,Action,120000000
+332,Uncharted,"February 10, 2022",,PG-13,Adventure,120000000
+333,Fantastic Four: Rise of the Silver Surfer,"June 15, 2007",,PG,Action,120000000
+334,Life of Pi,"November 21, 2012",,PG,Drama,120000000
+335,Ghost Rider,"February 16, 2007",,PG-13,Action,120000000
+336,Rampage,"April 9, 2018",,PG-13,Action,120000000
+337,Charlie's Angels: Full Throttle,"June 27, 2003",,PG-13,Action,120000000
+338,Elysium,"August 9, 2013",,R,Action,120000000
+339,Oblivion,"April 19, 2013",,PG-13,Thriller/Suspense,120000000
+340,Power Rangers,"March 24, 2017",,PG-13,Action,120000000
+341,Stuart Little 2,"July 19, 2002",,PG,Adventure,120000000
+342,RoboCop,"February 12, 2014",,PG-13,Action,120000000
+343,The Chronicles of Riddick,"June 11, 2004",,PG-13,Adventure,120000000
+344,The Fantastic Four,"August 5, 2015",,NA,NA,120000000
+345,Speed Racer,"May 9, 2008",,PG,Action,120000000
+346,The Island,"July 22, 2005",,PG-13,Action,120000000
+347,How Do You Know?,"December 17, 2010",,R,Romantic Comedy,120000000
+348,Outlaw King,"November 9, 2018",,R,Action,120000000
+349,Emancipation,"December 2, 2022",,NA,Thriller/Suspense,120000000
+350,Knight and Day,"June 23, 2010",,PG-13,Action,117000000
+351,Tang Ren Jie Tan An 3,"January 25, 2021",,R,Action,117000000
+352,Venom,"October 2, 2018",,PG-13,Action,116000000
+353,Star Wars Ep. I: The Phantom Menace,"May 19, 1999",,PG,Adventure,115000000
+354,Star Wars Ep. III: Revenge of the Sith,"May 19, 2005",,PG-13,Adventure,115000000
+355,Star Wars Ep. II: Attack of the Clones,"May 16, 2002",,PG,Adventure,115000000
+356,"Monsters, Inc.","November 2, 2001",,G,Adventure,115000000
+357,The Wolverine,"July 26, 2013",,PG-13,Action,115000000
+358,Dante’s Peak,"February 7, 1997",,PG-13,Thriller/Suspense,115000000
+359,The Huntsman: Winter’s War,"April 6, 2016",,PG-13,Action,115000000
+360,Windtalkers,"June 14, 2002",,R,Action,115000000
+361,Triple Frontier,"March 6, 2019",,R,Action,115000000
+362,Astérix aux Jeux Olympiques,"July 4, 2008",,Unrated,Adventure,113500000
+363,Gulliver's Travels,"December 24, 2010",,PG,Adventure,112000000
+364,Ferdinand,"December 8, 2017",,PG,Adventure,111000000
+365,Deadpool 2,"May 11, 2018",,R,Action,110000000
+366,Gravity,"October 3, 2013",,PG-13,Thriller/Suspense,110000000
+367,Night at the Museum,"December 22, 2006",,PG,Adventure,110000000
+368,Venom: Let There be Carnage,"September 30, 2021",,PG-13,Action,110000000
+369,Mr. and Mrs. Smith,"June 10, 2005",,PG-13,Action,110000000
+370,San Andreas,"May 27, 2015",,PG-13,Adventure,110000000
+371,The Smurfs,"July 29, 2011",,PG,Adventure,110000000
+372,Live Free or Die Hard,"June 27, 2007",,PG-13,Action,110000000
+373,The Divergent Series: Insurgent,"March 18, 2015",,PG-13,Action,110000000
+374,Ocean's Twelve,"December 10, 2004",,PG-13,Adventure,110000000
+375,Tomorrow Never Dies,"December 19, 1997",,PG-13,Action,110000000
+376,The Patriot,"June 28, 2000",,R,Drama,110000000
+377,300: Rise of an Empire,"March 7, 2014",,R,Action,110000000
+378,The Aviator,"December 17, 2004",,PG-13,Drama,110000000
+379,Passengers,"December 21, 2016",,PG-13,Thriller/Suspense,110000000
+380,The Green Hornet,"January 14, 2011",,PG-13,Action,110000000
+381,Miss Peregrine’s Home for Peculiar Children,"September 21, 2016",,PG-13,Adventure,110000000
+382,Real Steel,"October 7, 2011",,PG-13,Action,110000000
+383,Men in Black: International,"June 12, 2019",,PG-13,Adventure,110000000
+384,The A-Team,"June 11, 2010",,PG-13,Action,110000000
+385,The Smurfs 2,"July 31, 2013",,PG,Adventure,110000000
+386,The Divergent Series: Allegiant,"March 9, 2016",,PG-13,Action,110000000
+387,The Taking of Pelham 123,"June 12, 2009",,R,Action,110000000
+388,Ender's Game,"October 25, 2013",,PG-13,Adventure,110000000
+389,Home on the Range,"April 2, 2004",,PG,Adventure,110000000
+390,Speed 2: Cruise Control,"June 13, 1997",,PG-13,Action,110000000
+391,Kingdom of Heaven,"May 6, 2005",,R,Action,110000000
+392,Ghost in the Shell,"March 23, 2017",,PG-13,Action,110000000
+393,Around the World in 80 Days,"June 16, 2004",,PG,Adventure,110000000
+394,Dr. Seuss’ The Cat in the Hat,"November 21, 2003",,PG,Adventure,109000000
+395,Ali,"December 25, 2001",,R,Drama,109000000
+396,The Martian,"September 30, 2015",,PG-13,Thriller/Suspense,108000000
+397,Allied,"November 20, 2016",,R,Drama,106000000
+398,"I, Robot","July 16, 2004",,PG-13,Action,105000000
+399,Stuart Little,"December 17, 1999",,PG,Adventure,105000000
+400,The Princess and the Frog,"November 25, 2009",,G,Adventure,105000000
+401,"10,000 B.C.","March 7, 2008",,PG-13,Adventure,105000000
+402,Ice Age: Collision Course,"July 1, 2016",,PG,Adventure,105000000
+403,Starship Troopers,"November 7, 1997",,R,Action,105000000
+404,Town & Country,"April 27, 2001",,R,Romantic Comedy,105000000
+405,Kingsman: The Golden Circle,"September 19, 2017",,R,Action,104000000
+406,Gone in 60 Seconds,"June 9, 2000",,PG-13,Action,103300000
+407,Gladiator,"May 4, 2000",,R,Action,103000000
+408,The Hangover 3,"May 23, 2013",,R,Comedy,103000000
+409,A Wrinkle in Time,"March 9, 2018",,PG,Adventure,103000000
+410,Public Enemies,"July 1, 2009",,R,Drama,102500000
+411,Casino Royale,"November 17, 2006",,PG-13,Action,102000000
+412,Minority Report,"June 21, 2002",,PG-13,Action,102000000
+413,Bumblebee,"December 13, 2018",,PG-13,Adventure,102000000
+414,Cloud Atlas,"October 26, 2012",,R,Drama,102000000
+415,Harry Potter and the Chamber of Secrets,"November 15, 2002",,PG,Adventure,100000000
+416,Terminator 2: Judgment Day,"July 2, 1991",,R,Action,100000000
+417,Batman Forever,"June 16, 1995",,PG-13,Action,100000000
+418,Planet of the Apes,"July 27, 2001",,PG-13,Adventure,100000000
+419,National Treasure,"November 19, 2004",,PG,Adventure,100000000
+420,Django Unchained,"December 25, 2012",,R,Western,100000000
+421,1917,"December 25, 2019",,R,Thriller/Suspense,100000000
+422,Little Fockers,"December 22, 2010",,PG-13,Comedy,100000000
+423,True Lies,"July 15, 1994",,R,Action,100000000
+424,American Gangster,"November 2, 2007",,R,Drama,100000000
+425,Cloudy with a Chance of Meatballs,"September 18, 2009",,PG,Adventure,100000000
+426,The Other Guys,"August 6, 2010",,PG-13,Comedy,100000000
+427,Lemony Snicket's A Series of Unfortunate Events,"December 17, 2004",,PG,Adventure,100000000
+428,The Wolf of Wall Street,"December 25, 2013",,R,Black Comedy,100000000
+429,Epic,"May 24, 2013",,PG,Adventure,100000000
+430,Eraser,"June 21, 1996",,R,Action,100000000
+431,The Hunchback of Notre Dame,"June 21, 1996",,G,Adventure,100000000
+432,The Emperor's New Groove,"December 15, 2000",,G,Adventure,100000000
+433,The Expendables 2,"August 15, 2012",,R,Action,100000000
+434,Where the Wild Things Are,"October 16, 2009",,PG,Adventure,100000000
+435,Eragon,"December 15, 2006",,PG,Adventure,100000000
+436,Hercules,"July 23, 2014",,PG-13,Adventure,100000000
+437,The Tourist,"December 10, 2010",,PG-13,Thriller/Suspense,100000000
+438,End of Days,"November 24, 1999",,R,Action,100000000
+439,Spies in Disguise,"December 25, 2019",,PG,Adventure,100000000
+440,The Stepford Wives,"June 11, 2004",,PG-13,Black Comedy,100000000
+441,Surf’s Up,"June 8, 2007",,PG,Adventure,100000000
+442,Blood Diamond,"December 8, 2006",,R,Action,100000000
+443,Midway,"November 7, 2019",,PG-13,Action,100000000
+444,Legend of the Guardians: The Owls of Ga'Hoole,"September 24, 2010",,PG,Adventure,100000000
+445,Land of the Lost,"June 5, 2009",,PG-13,Comedy,100000000
+446,Peter Pan,"December 18, 2003",,PG,Adventure,100000000
+447,Wonder Park,"March 15, 2019",,PG,Adventure,100000000
+448,Catwoman,"July 23, 2004",,PG-13,Action,100000000
+449,The Expendables 3,"August 14, 2014",,PG-13,Action,100000000
+450,West Side Story,"December 8, 2021",,PG-13,Musical,100000000
+451,Treasure Planet,"November 27, 2002",,PG,Adventure,100000000
+452,The King’s Man,"December 22, 2021",,R,Action,100000000
+453,Green Zone,"March 12, 2010",,R,Drama,100000000
+454,Geostorm,"October 13, 2017",,PG-13,Thriller/Suspense,100000000
+455,Point Break,"December 2, 2015",,PG-13,Action,100000000
+456,Cats,"December 17, 2019",,PG,Musical,100000000
+457,In the Heart of the Sea,"November 26, 2015",,PG-13,Adventure,100000000
+458,Transcendence,"April 18, 2014",,PG-13,Thriller/Suspense,100000000
+459,Son of the Mask,"February 18, 2005",,PG,Adventure,100000000
+460,Mortal Engines,"December 5, 2018",,PG-13,Action,100000000
+461,Chaos Walking,"February 3, 2021",,PG-13,Action,100000000
+462,The Last Duel,"October 13, 2021",,R,Drama,100000000
+463,The Adventures of Pluto Nash,"August 16, 2002",,PG-13,Comedy,100000000
+464,Jin líng shí san chai,"January 20, 2012",,R,Drama,100000000
+465,The Midnight Sky,"December 9, 2020",,PG-13,Adventure,100000000
+466,Artemis Fowl,"June 12, 2020",,PG,Adventure,100000000
+467,The Peanuts Movie,"November 5, 2015",,G,Adventure,99000000
+468,The LEGO Movie 2: The Second Part,"February 6, 2019",,PG,Adventure,99000000
+469,Robin Hood,"November 21, 2018",,PG-13,Action,99000000
+470,The Mummy Returns,"May 4, 2001",,PG-13,Adventure,98000000
+471,Ford v. Ferrari,"November 14, 2019",,PG-13,Drama,97600000
+472,Gangs of New York,"December 20, 2002",,R,Drama,97000000
+473,Alien: Covenant,"May 4, 2017",,R,Horror,97000000
+474,Cinderella,"March 6, 2015",,PG,Drama,95000000
+475,Ice Age: Continental Drift,"June 27, 2012",,PG,Adventure,95000000
+476,Black Hawk Down,"December 28, 2001",,R,Action,95000000
+477,Sex and the City 2,"May 27, 2010",,R,Comedy,95000000
+478,Percy Jackson & the Olympians: The Lightning Thief,"February 12, 2010",,PG,Adventure,95000000
+479,The Campaign,"August 10, 2012",,R,Comedy,95000000
+480,Unstoppable,"November 12, 2010",,PG-13,Action,95000000
+481,The Fifth Element,"May 9, 1997",,PG-13,Action,95000000
+482,The Road to El Dorado,"March 31, 2000",,PG,Adventure,95000000
+483,The Lovely Bones,"December 11, 2009",,PG-13,Drama,95000000
+484,Ben-Hur,"June 30, 2016",,PG-13,Adventure,95000000
+485,Seventh Son,"December 19, 2014",,PG-13,Adventure,95000000
+486,Finding Nemo,"May 30, 2003",,G,Adventure,94000000
+487,The Lord of the Rings: The Return of the King,"December 17, 2003",,PG-13,Adventure,94000000
+488,The Lord of the Rings: The Two Towers,"December 18, 2002",,PG-13,Adventure,94000000
+489,Lara Croft: Tomb Raider,"June 15, 2001",,PG-13,Adventure,94000000
+490,Kingsman: The Secret Service,"January 29, 2015",,R,Action,94000000
+491,The Lord of the Rings: The Fellowship of the Ring,"December 19, 2001",,PG-13,Adventure,93000000
+492,Jurassic Park III,"July 18, 2001",,PG-13,Action,93000000
+493,Rise of the Planet of the Apes,"August 5, 2011",,PG-13,Adventure,93000000
+494,The Spiderwick Chronicles,"February 14, 2008",,PG,Adventure,92500000
+495,The Incredibles,"October 22, 2004",,PG,Adventure,92000000
+496,A Good Day to Die Hard,"February 6, 2013",,R,Action,92000000
+497,The Alamo,"April 9, 2004",,PG-13,Western,92000000
+498,Cutthroat Island,"December 22, 1995",,PG-13,Adventure,92000000
+499,The Secret Life of Walter Mitty,"December 19, 2013",,PG,Adventure,91000000
