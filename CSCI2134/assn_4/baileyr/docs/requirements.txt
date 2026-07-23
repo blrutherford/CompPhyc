@@ -1,0 +1,40 @@
+1. Support user interests
+    + users can have interests with a category and name
+		+ users have only one interest
+		+ valid interest categories are Sports and TV
+		+ can start and end interests
+		+ suggest new friends that share an interest when a user starts an
+		interest
+2. Relationship changes
+    + when Alice starts an interest suggest new friends: any users that have the same interest and are not
+			already friends with Alice
+		+ use the same sorting and no duplication rules as when suggesting
+			friends after making a new friend
+		+ two users have the same interest if their interest has the same
+			category and the same name
+3. Handle improper input
+    + output line with an error
+		+ too many tokens
+		+ too few tokens
+		+ interest category other than Sports or TV
+		+ same user twice
+
+4. Add Unit tests for any new classes
+
+Bonus:  
+    Learn about Factory pattern
+    Implement factory pattern for interests
+
+Add a factory
+    + Builds interests given the input
+    + Allows easy addition of new interests in the future
+		+ Separate interest and factory classes
+
+Extensions designed 10% (UML diagram)
+Extensions implemented 20%
+Extensions tested 20%
+Refactorings described (4) 10%
+Refactorings implemented (2) 10%
+Code Clarity 10%
+Document Clarity 10%
+Factory 10% Bonus

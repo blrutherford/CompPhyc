@@ -1,0 +1,18 @@
+00 Empty test
+01 Basic recommendation
+02 Repeat recommendation
+03 Multiple recommendation
+04 Lots of users leave
+05 Lots of recommendations
+06 Cycle of recommendations
+07 Start and end an interest
+08 Basic recommendation with interests
+09 Multiple recommendation with interests
+10 Mixed recommendations from friends and interests
+11 End an interest
+12 Too few tokens
+13 Too many tokens
+14 Wrong token type
+15 User friends themself
+16 Replace an interest
+17 Cycle of recommendations with interests

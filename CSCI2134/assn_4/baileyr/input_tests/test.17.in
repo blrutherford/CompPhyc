@@ -1,0 +1,33 @@
+Alice joins
+Bob joins
+Carol joins
+Dave joins
+Eve joins
+Fred joins
+Alice friends Bob
+Bob friends Carol
+Carol friends Dave
+Dave friends Eve
+Eve friends Fred
+Fred friends Alice
+Alice starts TV The_Simpsons
+Bob starts TV The_Simpsons
+Carol starts TV The_Simpsons
+Alice ends
+Dave starts TV The_Simpsons
+Bob starts TV Game_Of_Thrones
+Dave starts TV Game_Of_Thrones
+Dave ends
+Bob starts Sports Hockey
+Eve starts Sports Hockey
+Fred starts Sports Baseball
+Alice starts Sports Baseball
+Carol starts Sports Baseball
+Eve starts Sports Baseball
+Alice leaves
+Bob leaves
+Carol leaves
+Dave leaves
+Eve leaves
+Fred leaves
+end

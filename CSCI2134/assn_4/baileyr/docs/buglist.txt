@@ -1,0 +1,73 @@
+Bug Report
+==========
+
+
+For each fixed bug , please provide the following information:
+  - Class name
+  - Method name
+  - Line number
+	- Cause of bug
+  - Bug fix (or reason bug is not easily fixed)
+
+
+BUGS FOUND AND FIXED BY UNIT TEST (should be 4-5 more bugs to find):
+
+Bug 0:
+  Class: FriendRecommender
+	Method: makeRecommendations()
+	Line: 96
+	Cause: incorrect comparison
+	Fix: flip comparison to !u.isFriend(v)
+
+Bug 1:
+  Class: User
+	Method: find()
+	Line: 44
+	Cause: incorrect comparison
+	Fix: reverse check to if (u != null)
+
+Bug 2:
+  Class: user
+	Method: friend()
+	Line: 62
+	Cause: find put this in its own adjacency list instead of u's
+	adjacency list
+	Fix: change line to u.adj.put(name,this)
+
+Bug 3:
+  Class: User
+	Method: isFriend()
+	Line: 94
+	Cause: searched for this.name instead of u.name
+	Fix: change to return adj.containsKey(u.name)
+
+Bug 4:
+  Class: User
+	Method: unfriend()
+	Line: 72
+	Cause: searching for String "f" instead of String f
+	Fix: replace with users.get(f)
+
+Bug 5:
+  Class: User
+	Method: leave()
+	Line: 87
+	Cause: User not removed from the users HashMap
+	Fix: add line User.users.remove(this.name)
+
+BUGS FOUND AND FIXED USING EXPECTED INPUT (2-3):
+
+Bug 6:
+  Class: FriendRecommender
+	Method: compute()
+	Line: 43, 47
+	Cause: joins case calls the leave() method and leaves case creates a
+	new User
+	Fix: swap the method calls to match the correct case
+
+Bug 7:
+  Class: FriendRecommender
+	Method: recommend()
+	Line: 76
+	Cause: list not sorted and duplicates not removed
+	Fix: sort the list before enumerating it to check for duplicates

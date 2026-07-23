@@ -1,0 +1,49 @@
+Class-level Refactoring Report
+==========
+
+For each refactoring opportunity , please provide the following information:
+    - where the issue is
+    - what SOLID principle (if any) are violated
+    - whether a class implementation or class interface refactoring
+      is needed
+    - a brief description of each issue
+    - how to fix the issue
+
+CLASS-LEVEL REFACTORING IMPLEMENTED
+
+Refactoring 0: add an interest class
+  Location: User.java
+	SOLID principle:  Single Responsibility Principle
+	class implementation or class interface: class implementation
+	Cause: User class has multiple responsibilities
+	Fix: create new class Interest
+
+Refactoring 1: spearate TV and Sports instances of thee interest class
+  Location: Interest.java
+	SOLID principle: Liskov Substitution Principle
+	class implementation or class interface: created new subclasses for each category
+	Cause: too restrictive with only two categories
+
+Refactoring 2: Create private variables in the TV and sports classes
+  Location: TV and Sports attributes
+	SOLID principle: dependedency Inversion principle
+	class implementation or class interface: interface
+	Cause: other classes don't need access to these variables
+	Fix: Make the attrbutes private
+
+CLASS-LEVEL REFACTORING SUGGESTED BUT NOT IMPLEMENTED
+
+Refactoring 2: Separate User class into smaller subclasses
+  Location: User.java
+	SOLID principle: Interface segregation principle
+	class implementation or class interface: interface
+	Cause: class is doing too much
+	Fix: should separate into interest based user tasks and basic user tasks
+
+Refactoring 3: implement more interests
+  Location: new file
+	SOLID principle:
+	class implementation or class interface: implementation
+	Cause: not broad enough categories
+	Fix: add new subclasses
+
