@@ -1,1 +1,41 @@
 Coursework for databases class
+
+Term project done in MySQL, learning how to use SQL in coordination with .csv files.
+
+Documentation:
+
+This database contains the information of 100 movies, including their titles, release date, budget, genre, mpaa rating, production cost, as well as the awards and people associated with each movie. There are four tables, the contents of the movie table coming from a Kaggle dataset, which has been published to the CC-0 as a public domain dedication. The other three tables: awards, people and movie_has_people are generated data from ChatGPT based on the movies provided.
+ There are 7 attributes in the movie table: movie_id (generated primary key), movie_title, release_date, budget, mpaa_rating, genre and production_cost with 100 rows total. In the awards table, there are 5 attributes: award_id (generated primary key), movie_id (foreign key), award_type, nominations and wins with 19 rows. In the people table, there are three attributes: person_id (generated primary key), person_name and person_role with 134 rows. Finally, the movie_has_people table has 2 attributes: movie_id (foreign primary key) and people_id (foreign primary key) with 100 rows.
+The first business rule enforced in my database is that each movie must have a unique title. This is enforced when creating the movie table as the movie_title column has the UNIQUE constraint assigned to it. The second is that a movie cannot have less than zero wins or nominations. This is enforced by the CHECK constraint in the awards table. The third business rule is that there are no duplicate people in the database. This is enforced by the UNIQUE constraint on the name in the people table, each person created also has a name which is enforced by the NOT NULL constraint on person_name.
+
+Query 1:
+	This is a simple query that finds all the movies with a production cost that went over the budget using a WHERE clause.
+
+Query 2:
+	Using a JOIN, this query finds the award information associated with each movie and returns it next to the movies title and genre.
+
+Query 3:
+	The purpose of this query is to show all the movies for each genre in the movies table.
+
+Query 4:
+	The purpose of this query is to get all the lead actors associated with each movie.
+
+Query 5:
+	This query is a group of subqueries that creates a view and updates the role of a specific actor to their character name. The first subquery is creating the view, the second calls it, the third updates the table to include the new information, and the fourth calls the updated view.
+
+There are two stored procedures in this database.
+Procedure 1:
+ The first updates the nominations and wins of a specific movie and award.
+CALL() Usage: To use this procedure, you need to provide the following parameters:
+1.	[award] (VARCHAR(100)) – this is the award type to update (e. g. Grammys, Academy Awards, Golden Globe Awards)
+2.	[movie_title](VARCHAR(100)) – this is the movie that the awards need to be updated for
+3.	[noms] (INT) – number of nominations to change the data to
+4.	[wins] (INT) – number of wins to change the data to
+Return: this procedure does not return a value but modifies the nominations and wins for the award specified and the specified movie title.
+
+Procedure 2:
+	The second procedure deletes all the people with a specified role in the database.
+	CALL() Usage: To use this procedure, you need to provide the following parameters:
+1.	[p_name] (VARCHAR(50)) – this is the role that will be deleted (Composer, Director, Lead Actor)
+
+Return: This procedure does not return a value but instead removes all people within that role from the database. This includes their movie association (if applicable).
